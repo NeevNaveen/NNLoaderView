@@ -60,7 +60,7 @@ extension NNLoaderView {
         
         transparentView = UIView.init(frame: inView.bounds);
         transparentView.backgroundColor = UIColor.clear;
-        transparentView.isUserInteractionEnabled = false;
+        transparentView.isUserInteractionEnabled = true;
         
         container = UIView.init(frame: inView.bounds);
         container.backgroundColor = UIColor.clear;
