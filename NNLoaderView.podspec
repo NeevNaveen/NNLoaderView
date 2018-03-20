@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'NNLoaderView'
-s.version          = '0.0.2'
+s.version          = '0.0.3'
 s.summary          = 'A activity indicator view with friendly customization where you can customize Animation and text'
 
 s.description      = <<-DESC
