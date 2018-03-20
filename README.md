@@ -8,7 +8,7 @@ A simple loader view with easy customization.
   platform :ios, '11.0'
   use_frameworks!
   target 'MyApp' do
-      pod 'NNLoaderView'
+      pod 'NNLoaderView',  :git => 'https://github.com/NeevNaveen/NNLoaderView'
   end
 
   ```
