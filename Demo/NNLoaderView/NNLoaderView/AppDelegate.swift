@@ -1,10 +1,6 @@
 //
 //  AppDelegate.swift
 //  NNLoaderView
-//
-//  Created by Successive Software on 3/16/18.
-//  Copyright © 2018 Successive Software. All rights reserved.
-//
 
 import UIKit
 
