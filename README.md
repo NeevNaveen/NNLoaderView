@@ -24,7 +24,7 @@ A simple loader view with easy customization.
         NNLoaderView.shared.changeColor = UIColor.cyan;
     ```
     
-    * Now use it in your ViewController
+  * Now use it in your ViewController
     
     ```swift
         NNLoaderView.shared.show(inView: self.view); // To add the loaderview
