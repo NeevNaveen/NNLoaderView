@@ -18,10 +18,10 @@ A simple loader view with easy customization.
   * Set the Loader in the App Delegate's - didFinishLaunchingWithOptions
     
     ```swift
-        NNLoaderView.shared.circleCount = 4;
-        NNLoaderView.shared.circleRadius = 10;
-        NNLoaderView.shared.circleColor = UIColor.purple;
-        NNLoaderView.shared.changeColor = UIColor.cyan;
+    NNLoaderView.shared.circleCount = 4;
+    NNLoaderView.shared.circleRadius = 10;
+    NNLoaderView.shared.circleColor = UIColor.purple;
+    NNLoaderView.shared.changeColor = UIColor.cyan;
     ```
     
     Types of Animations to choose from
