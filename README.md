@@ -24,6 +24,15 @@ A simple loader view with easy customization.
         NNLoaderView.shared.changeColor = UIColor.cyan;
     ```
     
+    Types of Animations to choose from
+    
+    ```swift
+    NNLoaderView.shared.animationType = .scale;
+    NNLoaderView.shared.animationType = .bounce;
+    NNLoaderView.shared.animationType = .fadeInOutLenear;
+    NNLoaderView.shared.animationType = .changeColor;
+    ```
+    
   * Now use it in your ViewController
     
     ```swift
